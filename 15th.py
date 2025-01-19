@@ -1,0 +1,3 @@
+F = int(input("ENTER THE TEMPERATURE IN FAHRENHEIT : "))
+C = (5/9)*(F - 32)
+print("THE VALUE OF TEMPERATURE IN CELCIUS : " , C)
