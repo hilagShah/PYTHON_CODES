@@ -1,0 +1,11 @@
+STRING = input("ENTER THE STRING : ")
+
+print("a : ",STRING.count('e'))
+print("e : ",STRING.count('i'))
+print("i : ",STRING.count('o'))
+print("o : ",STRING.count('u'))
+print("u : ",STRING.count('A'))
+print("A : ",STRING.count('E'))
+print("E : ",STRING.count('I'))
+print("i : ",STRING.count('O'))
+print("U : ",STRING.count('U'))
